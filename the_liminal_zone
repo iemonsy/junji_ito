@@ -5,6 +5,7 @@
   "chapters": {
     "1": {
       "title": "Weeping Lady Hill (Part 2)",
+      "volume": "1",
       "groups": {
         "iemonsy": "/proxy/api/imgur/chapter/v71tKVB/"
       },
@@ -12,6 +13,7 @@
     },
     "2": {
       "title": "Weeping Lady Hill (Part 3)",
+      "volume": "1",
       "groups": {
         "iemonsy": "/proxy/api/imgur/chapter/rA603U1/"
       },
